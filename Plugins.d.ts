@@ -1,0 +1,5 @@
+import { NRMusicPlugin as PlayerMoved } from '../Plugins/PlayerMoved';
+declare const _default: {
+    PlayerMoved: typeof PlayerMoved;
+};
+export default _default;
